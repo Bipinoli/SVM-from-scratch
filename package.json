@@ -1,0 +1,14 @@
+{
+  "name": "my_svm",
+  "version": "1.0.0",
+  "description": "Implementation of Support Vector Machine with Sequential Mimimal Optimization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bipin Oli",
+  "license": "ISC",
+  "dependencies": {
+    "read-csv-json": "^1.1.0"
+  }
+}
