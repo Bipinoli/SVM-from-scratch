@@ -130,7 +130,7 @@ var svmjs = (function(exports){
           } // end for i=1..N
           
           iter++;
-          //console.log("iter number %d, alphaChanged = %d", iter, alphaChanged);
+          console.log("iter number %d, alphaChanged = %d", iter, alphaChanged);
           if(alphaChanged == 0) passes++;
           else passes= 0;
           

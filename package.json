@@ -9,6 +9,7 @@
   "author": "Bipin Oli",
   "license": "ISC",
   "dependencies": {
+    "papaparse": "^4.6.3",
     "read-csv-json": "^1.1.0"
   }
 }
